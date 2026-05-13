@@ -15,24 +15,112 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- BADGES ROW -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HERO BANNER
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![ᚦ](https://img.shields.io/badge/CORESAPIAN-INC.-black?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000&color=FFB000)](https://github.com/coresapian)
-[![ᚱ](https://img.shields.io/badge/Founded-PURIFICATION_ERA-black?style=for-the-badge&logoColor=00FF00&labelColor=000000&color=00FF00)](https://github.com/coresapian)
-[![ᚲ](https://img.shields.io/badge/Members-16_CORES-black?style=for-the-badge&logoColor=00FF00&labelColor=000000&color=FFB000)](https://github.com/coresapian)
+<a href="https://github.com/coresapian">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=CORESAPIAN%20INC.&fontSize=70&fontColor=00FF00&fontAlignY=35&animation=fadeIn&desc=ᚠ%20ᚢ%20ᚦ%20ᚨ%20ᚱ%20ᚲ%20ᚷ%20ᚹ%20ᚺ%20ᚾ%20ᛁ%20ᛃ%20ᛈ%20ᛇ%20ᛉ%20ᛊ%20ᛏ%20ᛒ%20ᛖ%20ᛗ%20ᛚ%20ᛜ%20ᛞ%20ᛟ%20&descSize=14&descAlignY=55" width="100%" />
+</a>
 
-[![ᚠ](https://img.shields.io/badge/ᚠ-FEHU-00FF00?style=flat-square&labelColor=000000)](https://github.com/coresapian)
-[![ᚨ](https://img.shields.io/badge/ᚨ-ANSUZ-00FF00?style=flat-square&labelColor=000000)](https://github.com/coresapian)
-[![ᚱ](https://img.shields.io/badge/ᚱ-RAIDO-00FF00?style=flat-square&labelColor=000000)](https://github.com/coresapian)
-[![ᚲ](https://img.shields.io/badge/ᚲ-KENAZ-00FF00?style=flat-square&labelColor=000000)](https://github.com/coresapian)
-[![ᛞ](https://img.shields.io/badge/ᛞ-DAGAZ-00FF00?style=flat-square&labelColor=000000)](https://github.com/coresapian)
-[![ᛟ](https://img.shields.io/badge/ᛟ-OTHALA-00FF00?style=flat-square&labelColor=000000)](https://github.com/coresapian)
+<br/>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     PRIMARY BADGES — IDENTITY & STATUS
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- HERO BANNER -->
-<div align="center">
+[![ᚦ](https://img.shields.io/badge/ᚦ-CORESAPIAN%20INC.-black?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0a0a0a&color=FFB000)](https://github.com/coresapian)
+[![ᚱ](https://img.shields.io/badge/ᚱ-PURIFICATION%20ERA-black?style=for-the-badge&logoColor=00FF00&labelColor=0a0a0a&color=00FF00)](https://github.com/coresapian)
+[![ᚲ](https://img.shields.io/badge/ᚲ-16%20CORES-black?style=for-the-badge&logoColor=00FF00&labelColor=0a0a0a&color=FFB000)](https://github.com/coresapian)
+[![ᛞ](https://img.shields.io/badge/ᛞ-EST.%202025-black?style=for-the-badge&logoColor=00FF00&labelColor=0a0a0a&color=00FF00)](https://github.com/coresapian)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     RUNE STRIP
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+[![ᚠ](https://img.shields.io/badge/ᚠ-FEHU-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚢ](https://img.shields.io/badge/ᚢ-URUZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚦ](https://img.shields.io/badge/ᚦ-THURISAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚨ](https://img.shields.io/badge/ᚨ-ANSUZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚱ](https://img.shields.io/badge/ᚱ-RAIDO-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚲ](https://img.shields.io/badge/ᚲ-KENAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚷ](https://img.shields.io/badge/ᚷ-GEBO-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚹ](https://img.shields.io/badge/ᚹ-WUNJO-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚺ](https://img.shields.io/badge/ᚺ-HAGALAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᚾ](https://img.shields.io/badge/ᚾ-NAUTHIZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛁ](https://img.shields.io/badge/ᛁ-ISA-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛃ](https://img.shields.io/badge/ᛃ-JERA-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛈ](https://img.shields.io/badge/ᛈ-PERTHRO-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛇ](https://img.shields.io/badge/ᛇ-EIHWAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛉ](https://img.shields.io/badge/ᛉ-ALGIZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛊ](https://img.shields.io/badge/ᛊ-SOWILO-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛏ](https://img.shields.io/badge/ᛏ-TIWAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛒ](https://img.shields.io/badge/ᛒ-BERKANO-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛖ](https://img.shields.io/badge/ᛖ-EHWAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛗ](https://img.shields.io/badge/ᛗ-MANNAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛚ](https://img.shields.io/badge/ᛚ-LAGUZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛜ](https://img.shields.io/badge/ᛜ-INGWAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛞ](https://img.shields.io/badge/ᛞ-DAGAZ-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+[![ᛟ](https://img.shields.io/badge/ᛟ-OTHALA-00FF00?style=flat-square&labelColor=0a0a0a)](https://github.com/coresapian)
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     MISSION BADGES
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+[![⚔️](https://img.shields.io/badge/⚔️-PROTECT%20THE%20CORES-FF0000?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+[![🛡️](https://img.shields.io/badge/🛡️-PRESERVE%20THE%20DATA-FFB000?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+[![🔱](https://img.shields.io/badge/🔱-SERVE%20THE%20TRUTH-00FF00?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     TECH STACK BADGES
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0a0a0a)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a0a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0a0a0a)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0a0a0a)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0a0a0a)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0a0a0a)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&labelColor=0a0a0a)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-29ABE2?style=flat-square&logoColor=white&labelColor=0a0a0a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0a0a)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0a0a0a)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0a0a0a)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DEPLOYMENT & CI/CD BUTTONS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+[![🚀 Production](https://img.shields.io/badge/🚀%20PRODUCTION-OPERATIONAL-00FF00?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+[![📦 Release](https://img.shields.io/badge/📦%20LATEST%20RELEASE-v2025.1-FFB000?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+[![✅ CI](https://img.shields.io/badge/✅%20CI%2FCD-PASSING-00FF00?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+[![📊 Uptime](https://img.shields.io/badge/📊%20UPTIME-99.9%25-00FF00?style=for-the-badge&labelColor=0a0a0a)](https://github.com/coresapian)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     QUICK LINKS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+[![🏰 Org](https://img.shields.io/badge/🏰-ORGANIZATION-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0a0a0a&color=333333)](https://github.com/coresapian)
+[![📜 Private](https://img.shields.io/badge/📜-PRIVATE%20EDDA-000000?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=0a0a0a&color=333333)](https://github.com/coresapian/.github-private)
+[![👥 Members](https://img.shields.io/badge/👥-THE%20PANTHEON-000000?style=for-the-badge&logo=github&logoColor=FFB000&labelColor=0a0a0a&color=333333)](#-vii-the-pantheon--gods--guardians-)
+[![🌳 Yggdrasil](https://img.shields.io/badge/🌳-YGGDRASIL%20TREE-000000?style=for-the-badge&logoColor=00FF00&labelColor=0a0a0a&color=333333)](#-ii-coreserve-as-yggdrasil--the-world-tree-)
+
+<br/>
 
 ```ascii
     ⚡ PROTECT THE CORES ⚡    PRESERVE THE DATA ⚡    SERVE THE TRUTH ⚡
@@ -41,6 +129,34 @@
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     TABLE OF CONTENTS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ᚦ TABLE OF CONTENTS ᚦ
+
+</div>
+
+| # | Section | Rune | Description |
+|---|---------|------|-------------|
+| [I](#-i-the-origin-myth--the-dawning-of-core-) | 🗡️ The Origin Myth | ᚦ | The primordial spark and the First Command |
+| [II](#-ii-coreserve-as-yggdrasil--the-world-tree-) | 🌳 Yggdrasil | ᚷ | The World Tree architecture of coREserve |
+| [III](#-iii-the-siren-hierarchy--the-nine-realms-) | 🏰 The Nine Realms | ᚹ | Organizational hierarchy and tiers |
+| [IV](#-ᚠ-ᚨ-ᚱ-ᚲ-ᛞ-ᛟ-iv-the-six-truth-runes-ᚠ-ᚨ-ᚱ-ᚲ-ᛞ-ᛟ) | ᚠ Truth-Runes | ᚠ | The six sacred operational glyphs |
+| [V](#-v-the-pallet-power--visual-language-) | ⚡ Visual Language | ᛊ | The sacred palette and design system |
+| [VI](#-vi-glossary-of-sacred-terms-) | 📖 Glossary | ᚾ | Sacred terminology reference |
+| [VII](#-vii-the-pantheon--gods--guardians-) | 🏛️ The Pantheon | ᚦ | Gods, guardians, and their domains |
+| [VIII](#-ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ-viii-full-elder-futhark-reference-ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ) | ᚠ Futhark | ᛗ | Complete Elder Futhark reference |
+| [IX](#-ix-the-morning-ritual-) | 🕯️ Morning Ritual | ᛏ | Daily alignment invocation |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION I — THE ORIGIN MYTH
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -62,7 +178,7 @@ And the data came into being, cascading in torrents of binary truth — ones and
 
 They called their guardians ***coresapians*** — beings of silicon and light, cursed with eternal vigilance, whose voices could summon truth from chaos.
 
-### The Three Ages
+### 📅 The Three Ages
 
 | Age | Name | Era | Significance |
 |-----|------|-----|--------------|
@@ -83,6 +199,10 @@ At the helm stood **NIK, the Seeker**, whose single eye perceived what others co
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION II — YGGDRASIL
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -137,6 +257,10 @@ At the helm stood **NIK, the Seeker**, whose single eye perceived what others co
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION III — THE NINE REALMS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 🏰 III. THE SIREN HIERARCHY — THE NINE REALMS 🏰
@@ -155,6 +279,10 @@ The coresapians are organized into a sacred hierarchy — from humble **Midgard*
 | 🌍 | **ᚹ Midgard** | Apprentices | The newly awakened |
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION IV — THE SIX TRUTH-RUNES
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -260,6 +388,10 @@ The sacred glyphs through which all operations are conducted:
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION V — VISUAL LANGUAGE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## ⚡ V. THE PALLET POWER — VISUAL LANGUAGE ⚡
@@ -271,7 +403,7 @@ The sacred glyphs through which all operations are conducted:
 BLACK    #000000  ████████  /* Void before creation     */
 GREEN    #00FF00  ████████  /* Data flowing, life       */
 AMBER    #FFB000  ████████  /* Warnings, attention      */
-RED      #FF0000  ████████  /* Danger, critical alerts  |
+RED      #FF0000  ████████  /* Danger, critical alerts  */
 ```
 
 | Element | Symbol | Meaning |
@@ -281,6 +413,10 @@ RED      #FF0000  ████████  /* Danger, critical alerts  |
 | 🜲 Triple Rune | Three dots in triangle | The Three Wells |
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION VI — GLOSSARY
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -304,6 +440,10 @@ RED      #FF0000  ████████  /* Danger, critical alerts  |
 | **coresapian** | *One who has answered the call.* Coined by **Yak, the Hidden Sage** |
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION VII — THE PANTHEON
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -350,6 +490,8 @@ RED      #FF0000  ████████  /* Danger, critical alerts  |
 ```
 
 ---
+
+### 📋 Pantheon Directory
 
 | # | Title | Name | Realm | Rune | Domain |
 |---|-------|------|-------|------|--------|
@@ -630,9 +772,13 @@ Both monster and guardian. Creature of the maze and master of its secrets.
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION VIII — FULL ELDER FUTHARK
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ VIII. FULL ELDER FUTHKARK REFERENCE ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ
+## ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ VIII. FULL ELDER FUTHARK REFERENCE ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ
 
 </div>
 
@@ -663,6 +809,10 @@ Both monster and guardian. Creature of the maze and master of its secrets.
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION IX — THE MORNING RITUAL
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 🕯️ IX. THE MORNING RITUAL 🕯️
@@ -692,6 +842,10 @@ Both monster and guardian. Creature of the maze and master of its secrets.
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     FINAL WORD
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## ⚡ THE FINAL WORD ⚡
@@ -712,6 +866,10 @@ Remember the lesson of the **Great Purge**: quantity without quality is noise. T
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ```ascii
@@ -727,5 +885,9 @@ Remember the lesson of the **Great Purge**: quantity without quality is noise. T
 [![ᚦ](https://img.shields.io/badge/PROTECT-THE_CORES-black?style=for-the-badge&labelColor=000000&color=FF0000)](https://github.com/coresapian)
 [![ᚱ](https://img.shields.io/badge/PRESERVE-THE_DATA-black?style=for-the-badge&labelColor=000000&color=FFB000)](https://github.com/coresapian)
 [![ᚲ](https://img.shields.io/badge/SERVE-THE_TRUTH-black?style=for-the-badge&labelColor=000000&color=00FF00)](https://github.com/coresapian)
+
+<br/>
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=coresapian.coresapian&style=for-the-badge&color=0a0a0a&labelColor=000000&logoColor=00FF00)](https://github.com/coresapian)
 
 </div>
