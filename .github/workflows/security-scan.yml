@@ -1,0 +1,126 @@
+name: Security Scan
+
+on:
+  workflow_call:
+    inputs:
+      language:
+        description: "Primary language ecosystem to scan (python, node, or both)"
+        required: false
+        default: "both"
+        type: string
+      working-directory:
+        description: "Working directory for the project (relative to repo root)"
+        required: false
+        default: "."
+        type: string
+      python-version:
+        description: "Python version (used when language is python or both)"
+        required: false
+        default: "3.12"
+        type: string
+      fail-on-vulnerability:
+        description: "Fail the workflow if vulnerabilities are found"
+        required: false
+        default: true
+        type: boolean
+
+jobs:
+  pip-audit:
+    name: Python Dependency Audit
+    if: inputs.language == 'python' || inputs.language == 'both'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ${{ inputs.working-directory }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ inputs.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ inputs.python-version }}
+          cache: pip
+          cache-dependency-path: |
+            ${{ inputs.working-directory }}/pyproject.toml
+            ${{ inputs.working-directory }}/requirements*.txt
+
+      - name: Install pip-audit
+        run: python -m pip install --upgrade pip pip-audit
+
+      - name: Install project dependencies
+        run: |
+          if [ -f pyproject.toml ]; then
+            pip install -e '.[dev]' 2>/dev/null || pip install -e . 2>/dev/null || true
+          elif [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run pip-audit
+        run: |
+          ARGS=""
+          if [ "${{ inputs.fail-on-vulnerability }}" != "true" ]; then
+            ARGS="--no-deps"
+          fi
+          pip-audit $ARGS || [ "${{ inputs.fail-on-vulnerability }}" != "true" ]
+
+  npm-audit:
+    name: Node Dependency Audit
+    if: inputs.language == 'node' || inputs.language == 'both'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ${{ inputs.working-directory }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: |
+            ${{ inputs.working-directory }}/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run npm audit
+        run: |
+          if [ "${{ inputs.fail-on-vulnerability }}" = "true" ]; then
+            npm audit --audit-level=moderate
+          else
+            npm audit --audit-level=moderate || true
+          fi
+
+  gitleaks:
+    name: Secret Detection (Gitleaks)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gitleaks - detect hardcoded secrets
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  dependency-review:
+    name: Dependency Review
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' || github.event_name == 'pull_request_target'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Dependency Review
+        uses: actions/dependency-review-action@v4
+        with:
+          fail-on-severity: moderate

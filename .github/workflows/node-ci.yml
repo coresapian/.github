@@ -1,0 +1,104 @@
+name: Node CI
+
+on:
+  workflow_call:
+    inputs:
+      node-version:
+        description: "Node.js version to use"
+        required: false
+        default: "20"
+        type: string
+      package-manager:
+        description: "Package manager to use (npm, yarn, pnpm, bun)"
+        required: false
+        default: "npm"
+        type: string
+      working-directory:
+        description: "Working directory for the project (relative to repo root)"
+        required: false
+        default: "."
+        type: string
+      install-cmd:
+        description: "Custom install command (overrides package-manager default)"
+        required: false
+        default: ""
+        type: string
+      lint-cmd:
+        description: "Custom lint command (overrides default)"
+        required: false
+        default: ""
+        type: string
+      build-cmd:
+        description: "Custom build command (overrides default)"
+        required: false
+        default: ""
+        type: string
+      test-cmd:
+        description: "Custom test command (overrides default)"
+        required: false
+        default: ""
+        type: string
+
+jobs:
+  node-ci:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ${{ inputs.working-directory }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js ${{ inputs.node-version }}
+        if: inputs.package-manager != 'bun'
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node-version }}
+          cache: ${{ inputs.package-manager }}
+          cache-dependency-path: |
+            ${{ inputs.working-directory }}/package-lock.json
+            ${{ inputs.working-directory }}/yarn.lock
+            ${{ inputs.working-directory }}/pnpm-lock.yaml
+
+      - name: Set up Bun
+        if: inputs.package-manager == 'bun'
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: |
+          ${{ inputs.install-cmd != '' && inputs.install-cmd || (
+            inputs.package-manager == 'npm' && 'npm ci' ||
+            inputs.package-manager == 'yarn' && 'yarn install --frozen-lockfile' ||
+            inputs.package-manager == 'pnpm' && 'pnpm install --frozen-lockfile' ||
+            inputs.package-manager == 'bun' && 'bun install --frozen-lockfile'
+          ) }}
+
+      - name: Lint
+        run: |
+          ${{ inputs.lint-cmd != '' && inputs.lint-cmd || (
+            inputs.package-manager == 'npm' && 'npm run lint' ||
+            inputs.package-manager == 'yarn' && 'yarn lint' ||
+            inputs.package-manager == 'pnpm' && 'pnpm lint' ||
+            inputs.package-manager == 'bun' && 'bun run lint'
+          ) }}
+
+      - name: Build
+        run: |
+          ${{ inputs.build-cmd != '' && inputs.build-cmd || (
+            inputs.package-manager == 'npm' && 'npm run build' ||
+            inputs.package-manager == 'yarn' && 'yarn build' ||
+            inputs.package-manager == 'pnpm' && 'pnpm build' ||
+            inputs.package-manager == 'bun' && 'bun run build'
+          ) }}
+
+      - name: Test
+        run: |
+          ${{ inputs.test-cmd != '' && inputs.test-cmd || (
+            inputs.package-manager == 'npm' && 'npm test' ||
+            inputs.package-manager == 'yarn' && 'yarn test' ||
+            inputs.package-manager == 'pnpm' && 'pnpm test' ||
+            inputs.package-manager == 'bun' && 'bun test'
+          ) }}
