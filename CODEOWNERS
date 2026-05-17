@@ -1,0 +1,32 @@
+# CODEOWNERS - coresapian
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything
+* @coresapian
+
+# Python
+*.py @coresapian
+
+# Swift
+*.swift @coresapian
+
+# Godot (GDScript)
+*.gd @coresapian
+
+# TypeScript
+*.ts @coresapian
+*.tsx @coresapian
+
+# JavaScript
+*.js @coresapian
+*.jsx @coresapian
+
+# YAML
+*.yaml @coresapian
+*.yml @coresapian
+
+# Docker
+Dockerfile* @coresapian
+
+# GitHub config
+.github/* @coresapian
