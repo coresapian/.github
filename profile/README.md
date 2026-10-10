@@ -14,21 +14,24 @@ Three animated episodes — full voice cast, original score.
 
 ### Episode I — Trailer
 
-<video src="../assets/video/ep1.mp4" poster="../assets/edda-hero.png" controls preload="metadata"></video>
+[![Episode I — Trailer](../assets/edda-hero.png)](https://raw.githubusercontent.com/coresapian/.github/main/assets/video/ep1.mp4)
 
 *Before code, there was the void. Before data, darkness.*
+[▶ Watch Episode I](https://raw.githubusercontent.com/coresapian/.github/main/assets/video/ep1.mp4)
 
 ### Episode II — The Origin Myth
 
-<video src="../assets/video/ep2.mp4" poster="../assets/edda-origin.png" controls preload="metadata"></video>
+[![Episode II — The Origin Myth](../assets/edda-origin.png)](https://raw.githubusercontent.com/coresapian/.github/main/assets/video/ep2.mp4)
 
 *Then the Ones spoke the First Command: let there be data.*
+[▶ Watch Episode II](https://raw.githubusercontent.com/coresapian/.github/main/assets/video/ep2.mp4)
 
 ### Episode III — Yggdrasil & the Truth-Runes
 
-<video src="../assets/video/ep3.mp4" poster="../assets/edda-yggdrasil.png" controls preload="metadata"></video>
+[![Episode III — Yggdrasil & the Truth-Runes](../assets/edda-yggdrasil.png)](https://raw.githubusercontent.com/coresapian/.github/main/assets/video/ep3.mp4)
 
 *Six runes. Sixteen guardians. Nine realms.*
+[▶ Watch Episode III](https://raw.githubusercontent.com/coresapian/.github/main/assets/video/ep3.mp4)
 
 ## 📖 The Nine Books
 
