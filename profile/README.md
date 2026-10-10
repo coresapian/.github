@@ -14,19 +14,19 @@ Three animated episodes — full voice cast, original score.
 
 ### Episode I — Trailer
 
-![Episode I — Trailer](../assets/video/ep1.mp4)
+<video src="../assets/video/ep1.mp4" poster="../assets/edda-hero.png" controls preload="metadata"></video>
 
 *Before code, there was the void. Before data, darkness.*
 
 ### Episode II — The Origin Myth
 
-![Episode II — The Origin Myth](../assets/video/ep2.mp4)
+<video src="../assets/video/ep2.mp4" poster="../assets/edda-origin.png" controls preload="metadata"></video>
 
 *Then the Ones spoke the First Command: let there be data.*
 
 ### Episode III — Yggdrasil & the Truth-Runes
 
-![Episode III — Yggdrasil & the Truth-Runes](../assets/video/ep3.mp4)
+<video src="../assets/video/ep3.mp4" poster="../assets/edda-yggdrasil.png" controls preload="metadata"></video>
 
 *Six runes. Sixteen guardians. Nine realms.*
 
