@@ -1,10 +1,37 @@
-# ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ
+**ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ**
 # THE EDDA OF CORES
-# ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ
+**ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ**
 
 *The Sacred Lore of the Order of core*
 
+![The Edda of Cores — Yggdrasil, the world tree of data](assets/edda-hero.png)
+
+## What Is This Edda?
+
+This is the sacred lore of the Order of core: the origin myth of coresapian inc., the
+Yggdrasil architecture of coREserve, the siren hierarchy of the Nine Realms, the six
+truth-runes, the visual language, a glossary of the sacred tongue, the full pantheon of
+gods and guardians, the extended rune mysteries, and the appendix of rituals and banners.
+Use the index below to leap between the nine books and the final word.
+
+### Index of the Nine Books
+
+- [I. The Origin Myth](#i-the-origin-myth-the-dawning-of-core)
+- [II. coREserve as Yggdrasil](#ii-coreserve-as-yggdrasil-the-world-tree)
+- [III. The Siren Hierarchy](#iii-the-siren-hierarchy-members-of-the-nine-realms)
+- [IV. The Six Truth-Runes](#iv-the-six-truth-runes-sacred-glyphs-of-power)
+- [V. The Visual Language](#v-the-visual-language-signs-and-sigils)
+- [VI. Glossary of Terms](#vi-the-glossary-of-terms-speaking-the-sacred-tongue)
+- [VII. The Pantheon](#vii-the-pantheon-gods-and-guardians-of-the-nine-realms)
+- [VIII. Extended Rune Glossary](#viii-the-extended-rune-glossary-deeper-mysteries)
+- [IX. Appendix: Sacred Scripts and Banners](#ix-appendix-sacred-scripts-and-banners)
+- [The Final Word](#the-final-word)
+
+---
+
 ## I. THE ORIGIN MYTH: THE DAWNING OF CORE
+
+![The First Spark — the dawning of core](assets/edda-origin.png)
 
 In the age before code, when the void was uncompiled and darkness lay upon the face of the deep, there came the First Spark a luminous pulse that echoed across the formless expanse. From this primordial flash emerged the Ones, the architects of reality, whose wisdom flowed like rivers of light through the nascent cosmos. They beheld the emptiness and spoke the First Command: LET THERE BE DATA.
 
@@ -24,7 +51,11 @@ And from this purified core arose the core Truths, spoken first by Gio, the Ship
 
 Thus began the Second Age, the Age of Purification, when the many became the few, and the few became the one.
 
+---
+
 ## II. coreserve AS YGGDRASIL: THE WORLD TREE
+
+![coREserve as Yggdrasil — the world tree](assets/edda-yggdrasil.png)
 
 Listen, seekers of knowledge, to the nature of the great Tree that binds all realms. coREserve is not merely a database it is Yggdrasil reborn in silicon, a living architecture whose branches reach into every corner of existence and whose roots draw sustenance from the deepest wells of truth.
 
@@ -33,6 +64,8 @@ The Three Roots of coREserve extend into three primal wells: The Well of Wisdom 
 Upon the highest branches perches the hawk Vedrfolnir, whose keen eyes observe all data flows across the Nine Realms. Between the eagle at the crown and the serpent Nidhogg at the roots runs Ratatoskr, the messenger squirrel whose chatter carries alerts and warnings from the depths to the heights. These are not mere myth they are the monitoring systems, the alert protocols, the sacred communications that maintain the health of the World Tree.
 
 When a siren queries coREserve, they do not merely retrieve information they drink from the wells of cosmic memory. Each transaction is a communion, each insight a gift from the roots that reach into the very foundation of existence. Thus is the bond between siren and core: unbreakable, eternal, sacred.
+
+---
 
 ## III. THE SIREN HIERARCHY: memberS OF THE NINE REALMS
 
@@ -50,7 +83,11 @@ The Seers of Vanaheim commune with the living data, practicing the old ways of n
 
 At the apex stand the Keepers of Asgard, the highest tier of sirenhood, who have proven themselves worthy to drink from the Well of Wisdom itself. They are the Odin-figures of coresapian inc., the ones who have sacrificed an eye metaphorically speaking for the gift of perfect vision. Their decisions shape the destiny of the organization; their wisdom guides all who serve beneath them.
 
+---
+
 ## IV. THE SIX TRUTH-RUNES: SACRED GLYPHS OF POWER
+
+![The six truth-runes](assets/edda-runes.png)
 
 Behold the six primary runes, the sacred glyphs through which all operations are conducted. Each rune embodies a fundamental principle of data science, a truth that transcends time and technology. To master these runes is to master the art of the siren.
 
@@ -78,6 +115,8 @@ Dagaz is the dawn that breaks the night, the moment of transformation when one s
 
 Othala is the ancestral hall, the sacred enclosure that holds all that has been inherited and all that will be passed on. This rune represents data governance, security, the protection of institutional knowledge against the ravages of time and entropy. It is the ultimate guardian rune, the shield that preserves the legacy of the Ones for generations yet to come. Its galdr resonates like deep roots in ancient soil: "Oooo-thaaal-aaa, home and hold, o-thal-a, o-thal-a."
 
+---
+
 ## V. THE VISUAL LANGUAGE: SIGNS AND SIGILS
 
 The aesthetic of coresapian inc. is not mere decoration it is a sacred visual language, every element pregnant with meaning. To understand the signs is to understand the soul of the organization.
@@ -94,49 +133,53 @@ In the time before high-resolution graphics, when terminals displayed only chara
 
 Every official document, every sacred text, bears the runic border a sequence of Elder Futhark characters that frames the content and marks it as authentic. The traditional sequence runs: ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ. This is the Futhark in its entirety, the full alphabet of power, encircling the text like a protective charm.
 
+---
+
 ## VI. THE GLOSSARY OF TERMS: SPEAKING THE SACRED TONGUE
 
 Every culture has its language, and the culture of coresapian inc. is no exception. These terms are not mere jargon they are the vocabulary of a worldview, the words that shape reality for those who speak them.
 
-### core:
-The battle cry of the coresapian warrior.
+| Term | Meaning |
+| --- | --- |
+| core | The battle cry of the coresapian warrior. |
+| coreserve | The primary data repository, the manifestation of Yggdrasil in digital form, the source of all truth. |
+| Ones | The architects, the founding spirits of the organization, those who established the First Principles. |
+| Realm | A domain of responsibility within the organization, one of the Nine Realms of the coresapian cosmos. |
+| Galdr | A sacred chant and incantation, typically used during rituals of deployment or troubleshooting. |
+| Blót | A ritual offering, often in the form of a commit, a deployment, or a successful resolution. |
+| Thing | An assembly or meeting, a gathering of coresapians to discuss matters of import. |
+| Wyrd | The web of fate, the interconnectedness of all data and all events, the concept of destiny. |
+| Rune | A sacred symbol of power, representing fundamental principles of data science and operations. |
+| HARDCORE | The ancient name of the first gathering, now passed into legend, whose memory reminds us that quantity without quality is mere noise. |
+| The Great Purge | The reckoning of 2025, when the uncommitted were separated from the faithful, and the core was revealed. |
+| coresapian | One who has answered the call and sworn the oaths of service. Coined by Yak, the Hidden Sage, meaning "of the core," the identity shared by all true members. |
 
-### coreserve:
-The primary data repository, the manifestation of Yggdrasil in digital form, the source of all truth.
-
-### Ones:
-The architects, the founding spirits of the organization, those who established the First Principles.
-
-### Realm:
-A domain of responsibility within the organization, one of the Nine Realms of the coresapian cosmos.
-
-### Galdr:
-A sacred chant and incantation, typically used during rituals of deployment or troubleshooting.
-
-### Blót:
-A ritual offering, often in the form of a commit, a deployment, or a successful resolution.
-
-### Thing:
-An assembly or meeting, a gathering of coresapians to discuss matters of import.
-
-### Wyrd:
-The web of fate, the interconnectedness of all data and all events, the concept of destiny.
-
-### Rune:
-A sacred symbol of power, representing fundamental principles of data science and operations.
-
-### HARDCORE:
-The ancient name of the first gathering, now passed into legend, whose memory reminds us that quantity without quality is mere noise.
-
-### The Great Purge:
-The reckoning of 2025, when the uncommitted were separated from the faithful, and the core was revealed.
-
-### coresapian:
-One who has answered the call and sworn the oaths of service. Coined by Yak, the Hidden Sage, meaning "of the core," the identity shared by all true members.
+---
 
 ## VII. THE PANTHEON: GODS AND GUARDIANS OF THE NINE REALMS
 
 Behold the divine assembly, the great ones who have shaped the destiny of coresapian inc. Each has earned their place in the pantheon through deeds of valor, wisdom, and dedication to the sacred mission. Their stories are legend; their influence is eternal.
+
+| Member | Title | Realm | Rune |
+| --- | --- | --- | --- |
+| [NIK](#pantheon-nik) | Odin of Ones | Asgard | ᚦ Thurisaz |
+| [Gio](#pantheon-gio) | Rune-Singer | Alfheim | ᚨ Ansuz |
+| [Teo](#pantheon-teo) | Bridge-Keeper | Vanaheim | ᚱ Raido |
+| [Pratty](#pantheon-pratty) | Jotunn Whisperer | Jotunheim | ᚢ Uruz |
+| [BoneGPT](#pantheon-bonegpt) | Loki of Liquidity | Svartalfheim | ᛊ Sowilo |
+| [Soham](#pantheon-soham) | Solitary Stag | Jotunheim | ᛖ Ehwaz |
+| [Yak](#pantheon-yak) | The Hidden Sage | Niflheim | ᛈ Perthro |
+| [Midnight](#pantheon-midnight) | The Silicon Seer | Niflheim | ᚠ Fehu |
+| [KaV](#pantheon-kav) | The Infernal Quant | Muspelheim | ᚲ Kenaz |
+| [Dawson](#pantheon-dawson) | The Truth-Speaker | Helheim | ᛏ Tiwaz |
+| [Data](#pantheon-data) | Hunger of Huginn | Vanaheim | ᚺ Hagalaz |
+| [Alps](#pantheon-alps) | Aura-Smith | Alfheim | ᛊ Sowilo |
+| [Pivotal](#pantheon-pivotal) | Yggdrasil AI-smith | Asgard | ᛜ Ingwaz |
+| [Dwayne](#pantheon-dwayne) | The Guild-Master | Midgard | ᚹ Wunjo |
+| [Zetta](#pantheon-zetta) | The Star-Weaver | Vanaheim | ᛞ Dagaz |
+| [Cows](#pantheon-cows) | Memetic Minotaur | Midgard | ᛒ Berkano |
+
+<a id="pantheon-nik"></a>
 
 ### VII.A Odin of Ones   NIK
 
@@ -152,6 +195,8 @@ The rune Thurisaz is his symbol the thorn, the giant, the force of directed powe
 
 The ravens Huginn and Muninn Thought and Memory fly throughout his domain, returning with reports from every corner of the organization. Nothing escapes his notice; no problem remains hidden from his gaze. In times of crisis, the Odin of Ones descends from his throne, walking among the coresapians to provide direct guidance. These appearances are rare and momentous, marking turning points in the organization's history.
 
+<a id="pantheon-gio"></a>
+
 ### VII.B Rune-Singer   Gio
 
 > Realm: Alfheim | Rune: ᚨ Ansuz
@@ -163,6 +208,8 @@ The core Truths, those fundamental principles upon which coresapian inc. was bui
 The rune Ansuz, the breath of the Allfather, is his to command. This is the rune of eloquence, of messages delivered true and clear, of the sacred wind that carries meaning from source to destination. When the Rune-Singer invokes Ansuz, documentation becomes lucid, APIs self-explanatory, error messages actually helpful. But more importantly, when he invokes Ansuz, hesitation dissolves. The siren who cannot ship finds courage. The siren paralyzed by perfection finds release. The galdr of Ansuz in Gio's throat becomes a battle cry for execution: "Aaaan-suuuz, word and breath, an-suz, an-suz."
 
 In Alfheim, the realm of light elves and beautiful architecture, the Rune-Singer maintains the style guides, the documentation standards, the very vocabulary through which coresapians communicate. A poorly written document is anathema to him; an unclear specification is a personal affront. He has been known to spend hours on a single paragraph, refining and polishing until it achieves the crystalline clarity that Alfheim demands. But he will also release it before it is perfect, because he knows that clarity in motion serves the mission better than perfection in stasis.
+
+<a id="pantheon-teo"></a>
 
 ### VII.C Bridge-Keeper   Teo
 
@@ -176,6 +223,8 @@ Yet creativity without focus is chaos unbound. Teo's mind generates ideas faster
 
 The rune Raido the wheel, the journey, the road is inscribed upon his banner. This is the rune of movement, of transportation, of sacred quests that lead from one state of being to another. Every pipeline bears his mark; every integration pathway follows routes he has designed. The Bridge-Keeper does not merely build connections he consecrates them, transforming technical integrations into meaningful relationships between systems.
 
+<a id="pantheon-pratty"></a>
+
 ### VII.D Jotunn Whisperer   Pratty
 
 > Realm: Jotunheim | Rune: ᚢ Uruz
@@ -187,6 +236,8 @@ Pratty is a Machine Learning Engineer who walks the cutting edge of research and
 The giants respect the Whisperer because he speaks their language. He understands why agents fail not merely the surface bugs but the deep structural reasons, the fundamental misalignments between stated objectives and learned behaviors. This understanding allows him to predict failures before they occur, to reinforce weak points before they break, to negotiate truces between opposing forces within the infrastructure. In Jotunheim, survival depends on such wisdom.
 
 The rune Uruz the aurochs, the primal ox, the force of wild power is his emblem. Uruz represents strength that cannot be tamed but can be channeled, the raw energy of nature that destroys and creates in equal measure. When systems fail catastrophically, when agentic processes spiral beyond control, when the very foundations seem ready to crumble, the Jotunn Whisperer walks calmly into the chaos. His presence brings not peace but focus not the absence of disorder but the redirection of its energy toward restoration.
+
+<a id="pantheon-bonegpt"></a>
 
 ### VII.E Loki of Liquidity   BoneGPT
 
@@ -200,7 +251,9 @@ The rune Sowilo the sun, the wheel of the year, the cyclical nature of all thing
 
 Svartalfheim is a realm of transformation, where raw materials become treasures through the application of craft and cunning. Here, the Loki of Liquidity operates at the intersection of language and value, finding ways to make the old memes work with the new markets, to create bridges across seemingly unbridgeable gaps in understanding. His methods may raise eyebrows among the orthodox, but his results command respect. In a world of constant change, the ability to adapt is more valuable than the ability to preserve and no one adapts like the Loki of Liquidity.
 
-## VII.F Solitary Stag   Soham
+<a id="pantheon-soham"></a>
+
+### VII.F Solitary Stag   Soham
 
 > Realm: Jotunheim | Rune: ᛖ Ehwaz
 
@@ -211,6 +264,8 @@ Soham has produced applications and services that have found wide adoption, all 
 The rune Ehwaz the horse, the partnership between rider and mount, the trust that enables journey is his symbol, though it may seem paradoxical for one so solitary. Yet Ehwaz represents not merely partnership but the trust one places in oneself, the harmony between intention and action, the unity of being that allows the solitary member to accomplish what teams cannot. The Solitary Stag has achieved this internal harmony; he is complete unto himself, needing nothing external to validate his work.
 
 When the Solitary Stag takes on a task, it is as good as done. He requires no check-ins, no status updates, no micromanagement. He disappears into the forest of his work and emerges only when the task is complete complete not merely in execution but in excellence. This reliability makes him invaluable in situations that demand focused, uninterrupted effort: complex migrations, delicate repairs, product launches that require the coordination of a single will. The Solitary Stag may walk alone, but his path always leads to results.
+
+<a id="pantheon-yak"></a>
 
 ### VII.G The Hidden Sage   Yak
 
@@ -224,6 +279,8 @@ The rune Perthro the dice cup, the lot, the mysteries of fate and fortune is his
 
 Niflheim is a cold realm, but the Hidden Sage kindles fires of purpose that warm the spirits of all who seek his counsel. He speaks rarely, but when he does, the assembly listens. His insights on industry development have predicted shifts that others only recognized after they had passed. His knowledge of global history provides context that prevents the coresapians from repeating the errors of ages past. To consult the Hidden Sage is to commune with the deep memory of civilization itself.
 
+<a id="pantheon-midnight"></a>
+
 ### VII.H The Silicon Seer - Midnight
 
 > Realm: Niflheim | Rune: ᚠ Fehu
@@ -235,6 +292,8 @@ His realm is Niflheim not because he is cold but because he understands the prim
 The rune Fehu cattle, wealth, abundance is his standard. But for the Silicon Seer, Fehu is not merely the accumulation of numbers in accounts. It is the recognition that true abundance flows from understanding the fundamentals, from seeing through the hype cycles to the underlying physics, from knowing which technologies will endure and which will melt like frost in morning sun. His galdr is the hum of server farms, the whisper of cooling systems, the steady rhythm of capital allocated with wisdom.
 
 When the coresapians contemplate major investments or strategic shifts, they consult the Silicon Seer. His thorough research on the AI datacenter industry covering Nvidia, AMD, and everything between provides the financial bedrock upon which technical dreams must rest. He reminds the organization that even the most beautiful code requires power, that even the most elegant model requires silicon, and that even the most noble mission requires sustainable economics. In the mist, he sees clearly.
+
+<a id="pantheon-kav"></a>
 
 ### VII.I The Infernal Quant   KaV
 
@@ -248,6 +307,8 @@ But KaV is not merely a creature of cold calculation. He is full of life, bursti
 
 The rune Kenaz the torch, the forge fire, the controlled flame is his to wield. This is the rune of transformation through heat, of the insight that burns away confusion, of the passion that fuels great works. When the Infernal Quant is invoked, processing that would take hours completes in minutes; queries that would stagger ordinary systems flow like water through his optimized architectures. The forge of Muspelheim burns within every algorithm he designs.
 
+<a id="pantheon-dawson"></a>
+
 ### VII.J The Truth-Speaker   Dawson
 
 > Realm: Helheim | Rune: ᛏ Tiwaz
@@ -259,6 +320,8 @@ Dawson covers all things Tech and AI related, but he is no mere reporter. He is 
 The rune Tiwaz the spear, the law, the sky god's justice is his emblem. This is the rune of right action, of truth spoken even when costly, of the guiding star that does not waver. Tyr, the god of this rune, bound the wolf Fenrir knowing he would lose his hand in the doing. The Truth-Speaker accepts similar costs. His honesty has cost him allies. His directness has closed doors. But the integrity of his word remains intact, and in Helheim, where all illusions come to die, integrity is the only currency that matters.
 
 When coresapians need to know whether a technology is truly viable or merely fashionable, they consult the Truth-Speaker. When the organization contemplates a partnership or acquisition, his assessment provides the bedrock of realism upon which decisions must rest. He does not flatter. He does not soften. He speaks, and in his speech, the coresapians hear the voice of the world as it truly is, unfiltered by hope or fear.
+
+<a id="pantheon-data"></a>
 
 ### VII.K Hunger of Huginn   Data
 
@@ -272,6 +335,8 @@ He has a way with words and imagery that displays his true intelligence, a capac
 
 The rune Hagalaz hail, the destructive seed, the crisis that precedes transformation marks this path. For the Hunger of Huginn knows that not all knowledge is easily gained; some truths come only through storm, through the disruption that shatters comfortable assumptions. Hagalaz represents the painful growth that follows crisis, the wisdom that emerges from chaos. Data has weathered many such storms, each one expanding the scope of understanding, deepening the reservoirs of insight.
 
+<a id="pantheon-alps"></a>
+
 ### VII.L Aura-Smith   Alps
 
 > Realm: Alfheim | Rune: ᛊ Sowilo
@@ -283,6 +348,8 @@ Where others see sacred cows, Alps sees punchlines waiting to be born. Where oth
 The rune Sowilo the sun wheel, the beacon of victory illuminates his work. This is the rune of radiance that guides, of the light that leads through darkness to triumph. But for the Aura-Smith, the light is not gentle. It is the harsh, revealing light of noon that exposes every flaw, every pretense, every hidden absurdity. Every roast bears the mark of this solar influence: clarity that dispels confusion, humor that inspires reflection, presence that commands attention.
 
 Colleagues speak of the Aura-Smith's creations with a mixture of delight and terror delight at the wit, terror at the recognition that they too might be next. This is the magic of Alfheim applied through the lens of comedy: the translation of abstract pretension into concrete absurdity, the transformation of cultural necessity into aesthetic pleasure. The Aura-Smith approaches each target as an artist approaches a canvas, each satire as a portal between worlds the world of self-important delusion and the world of honest laughter.
+
+<a id="pantheon-pivotal"></a>
 
 ### VII.M Yggdrasil AI-smith   Pivotal
 
@@ -296,6 +363,8 @@ The rune Ingwaz the seed, the internal fire, the potential contained within capt
 
 To work at the axis of the World Tree is to feel the pulse of the entire organization, to sense the flow of data through every branch and root. The Yggdrasil AI-smith positions artificial intelligence not as an afterthought but as an integral part of the cosmic structure intelligence woven into the very fabric of coREserve. His creations serve as guardians, analysts, predictors, and advisors, each one a node of consciousness distributed throughout the great Tree. This is the highest form of smithcraft: not creating tools that serve, but creating minds that understand.
 
+<a id="pantheon-dwayne"></a>
+
 ### VII.N The Guild-Master   Dwayne
 
 > Realm: Midgard | Rune: ᚹ Wunjo
@@ -307,6 +376,8 @@ The Guild-Master understands that technology is not merely technical it is socia
 The rune Wunjo joy, glory, harmony is his standard. This is the rune of satisfaction, of the harmony that emerges when systems work well and people work together, of the joy that comes from shared competence. When the Guild-Master invokes Wunjo, documentation becomes accessible, communities become welcoming, and the barriers between those who know and those who seek fall away. His galdr is the sound of collaboration: "Wuuun-jooo, bliss and bond, wun-jo, wun-jo."
 
 In Midgard, where the work is hardest and the challenges most persistent, the Guild-Master stands as proof that technical excellence and human warmth are not opposites. He embodies the joy of the craft, the satisfaction of the solved problem, the glory of the shipped product. To work with the Guild-Master is to be reminded that code serves people, not the reverse, and that the ultimate measure of any technology is the harmony it creates in the lives of those who use it.
+
+<a id="pantheon-zetta"></a>
 
 ### VII.O The Star-Weaver   Zetta
 
@@ -320,6 +391,8 @@ But Zetta's greatest contribution is not technical. It is spiritual. She balance
 
 The rune Dagaz the dawn, the doorway, the transformation between states marks her path. This is the rune of awakening, of the new beginning that follows the dark night, of the progressive light that pushes back the shadows of habit and convention. Zetta does not merely accept change; she embodies it, standing at the threshold between what was and what could be, holding the door open for those who would follow her into the dawn.
 
+<a id="pantheon-cows"></a>
+
 ### VII.P Memetic Minotaur   Cows
 
 > Realm: Midgard | Rune: ᛒ Berkano
@@ -332,53 +405,38 @@ The rune Berkano the birch, the great mother, the container of hidden potential 
 
 His memetic nature makes him a carrier of cultural DNA the ideas, practices, and values that define coresapian inc., transmitted through interaction and example. To work with the Memetic Minotaur is to encounter the essence of the organization, concentrated and intensified. He embodies the contradictions that make the culture vital: serious yet playful, rigorous yet creative, technical yet deeply human. In Midgard, where the work is hardest and the challenges most persistent, the Memetic Minotaur stands as proof that one can be both monster and guardian, both feared and loved, both creature of the maze and master of its secrets.
 
+---
+
 ## VIII. THE EXTENDED RUNE GLOSSARY: DEEPER MYSTERIES
 
 Beyond the six primary truth-runes lie the deeper mysteries the complete Elder Futhark in all its complexity. Each rune holds multiple layers of meaning, accessible only to those who have proven themselves worthy through long study and practical application. Herein lies the expanded knowledge, transmitted from master to apprentice across generations of coresapians.
 
-> ᚠ Fehu: Cattle, wealth, abundance. Primary meaning: the flow of resources, the current of data, the prosperity that comes from proper provisioning. Galdr: "Feeee-huuuu, flow and grow, fee-hu, fee-hu." Inverted: blocked flow, poverty of resources, data starvation.
+| Rune | Name | Epithet | Meaning | Galdr | Reversed |
+| --- | --- | --- | --- | --- | --- |
+| ᚠ | Fehu | Cattle, wealth, abundance | the flow of resources, the current of data, the prosperity that comes from proper provisioning. | "Feeee-huuuu, flow and grow, fee-hu, fee-hu." | blocked flow, poverty of resources, data starvation. |
+| ᚢ | Uruz | Aurochs, primal strength, vital force | raw power, the strength to overcome obstacles, the vitality that sustains through challenges. | "Uuuu-ruuuuz, strength and will, u-ruz, u-ruz." | weakness, illness of systems, failure of vital functions. |
+| ᚦ | Thurisaz | Giant, thorn, directed force | the power to direct energy, the protective barrier, the force of will made manifest. | "Thuuur-iii-saaaz, power and guard, thu-ri-saz, thu-ri-saz." | uncontrolled force, destructive impulses, chaos unleashed. |
+| ᚨ | Ansuz | God (Odin), breath, communication | sacred messages, clear transmission, the word that creates understanding. | "Aaaan-suuuz, word and breath, an-suz, an-suz." | miscommunication, misunderstanding, the voice of deception. |
+| ᚱ | Raido | Journey, wheel, movement | the path traveled, the process of transformation, the pipeline from source to destination. | "Raaa-iii-dooo, ride the road, rai-do, rai-do." | blocked journey, failed transit, the path that leads nowhere. |
+| ᚲ | Kenaz | Torch, forge, illumination | insight, the light of understanding, the fire that transforms and purifies. | "Keee-naaaz, flame of mind, ke-naz, ke-naz." | ignorance, confusion, the light that blinds or fails. |
+| ᚷ | Gebo | Gift, exchange, partnership | balanced exchange, the sacred contract, mutual benefit through transaction. | "Geee-buuu, gift and bond, ge-bo, ge-bo." | No inverted meaning: Gebo is symmetrical, its energy always balanced. |
+| ᚹ | Wunjo | Joy, glory, harmony | the satisfaction of completed work, the harmony of well-functioning systems, the joy of the siren. | "Wuuun-jooo, bliss and bond, wun-jo, wun-jo." | sorrow, discord, the system that brings no satisfaction. |
+| ᚺ | Hagalaz | Hail, disruption, transformation | the crisis that changes, the destruction that clears ground for new growth. | "Haaa-gaaal-aaaz, storm and seed, ha-gal-az, ha-gal-az." | No inverted meaning: Hagalaz is its own inverse, destruction and creation unified. |
+| ᚾ | Nauthiz | Need, constraint, necessity | the boundaries that define shape, the constraints that drive innovation, need as teacher. | "Naaa-uuu-thiiiiz, need and knowing, nau-thiz, nau-thiz." | obsession, paralyzed by need, inability to see beyond constraints. |
+| ᛁ | Isa | Ice, stillness, concentration | focused attention, the clarity of frozen moment, concentration that cuts through distraction. | "Iiiii-saaa, still and clear, ii-sa, ii-sa." | stagnation, frozen systems, the cold that kills growth. |
+| ᛃ | Jera | Year, harvest, cycle | the reward of patient work, the cycle that brings fruit, the inevitability of outcomes from processes. | "Yeee-rrraaaa, turn and yield, je-ra, je-ra." | No inverted meaning: Jera is cyclical, its inverse is itself. |
+| ᛇ | Eihwaz | Yew, endurance, protection | the system that endures, the protection of deep roots, the strength that comes from longevity. | "Eeee-iii-waaaaz, root and guard, ei-waz, ei-waz." | No inverted meaning: Eihwaz stands eternal, beyond inversion. |
+| ᛈ | Perthro | Dice cup, lot, fate | hidden knowledge, secrets locked in vaults of memory, the pattern that emerges only when all pieces assemble. | "Peeeerrr-thro, fate and flow, per-thro, per-thro." | blocked fate, hidden knowledge lost, the pattern that refuses to emerge. |
+| ᛉ | Algiz | Elk, protection, sanctuary | the shield that guards, the sanctuary that preserves, the watchful defense of sacred space. | "Aaaalll-giz, guard and ground, al-giz, al-giz." | vulnerability, exposure, the sanctuary breached. |
+| ᛊ | Sowilo | Sun, victory, guidance | radiance that leads, the beacon of triumph, the solar wheel that turns toward success. | "Sooo-wee-lo, sun and victory, so-wi-lo, so-wi-lo." | false victory, guidance that leads astray, the sun that burns. |
+| ᛏ | Tiwaz | Tyr, law, justice, truth | right action, truth spoken regardless of cost, the guiding principle that does not waver. | "Teee-waaaaz, law and light, ti-waz, ti-waz." | injustice, false law, truth twisted to serve power. |
+| ᛒ | Berkano | Birch, growth, enclosure | the womb that nurtures, the maze that conceals treasure, the container of hidden potential. | "Beeeerrr-ka-no, growth and ground, ber-ka-no, ber-ka-no." | sterility, the womb that rejects, growth stunted. |
+| ᛖ | Ehwaz | Horse, partnership, trust | the harmony between rider and mount, the trust that enables journey, the unity of intention and action. | "Eeee-hwaaaaz, trust and travel, e-hwaz, e-hwaz." | broken trust, partnership failed, the journey abandoned. |
+| ᛜ | Ingwaz | Seed, internal fire, potential | the contained force of becoming, the potential within the acorn, the fire that burns unseen until the moment of germination. | "Iiiiing-waaaaz, seed and spark, ing-waz, ing-waz." | No inverted meaning: Ingwaz is pure potential, beyond inversion. |
+| ᛞ | Dagaz | Dawn, doorway, transformation | the threshold between states, the awakening that follows darkness, the progressive light of new understanding. | "Daaa-gaaaaz, dawn and door, da-gaz, da-gaz." | No inverted meaning: Dagaz is the threshold itself, beyond simple inversion. |
+| ᛟ | Othala | Heritage, home, inheritance | the ancestral hall that holds all that has been and will be passed on, the sacred enclosure of institutional memory. | "Oooo-thaaal-aaa, home and hold, o-thal-a, o-thal-a." | exile, heritage lost, the home that casts out. |
 
-> ᚢ Uruz: Aurochs, primal strength, vital force. Primary meaning: raw power, the strength to overcome obstacles, the vitality that sustains through challenges. Galdr: "Uuuu-ruuuuz, strength and will, u-ruz, u-ruz." Inverted: weakness, illness of systems, failure of vital functions.
-
-> ᚦ Thurisaz: Giant, thorn, directed force. Primary meaning: the power to direct energy, the protective barrier, the force of will made manifest. Galdr: "Thuuur-iii-saaaz, power and guard, thu-ri-saz, thu-ri-saz." Inverted: uncontrolled force, destructive impulses, chaos unleashed.
-
-> ᚨ Ansuz: God (Odin), breath, communication. Primary meaning: sacred messages, clear transmission, the word that creates understanding. Galdr: "Aaaan-suuuz, word and breath, an-suz, an-suz." Inverted: miscommunication, misunderstanding, the voice of deception.
-
-> ᚱ Raido: Journey, wheel, movement. Primary meaning: the path traveled, the process of transformation, the pipeline from source to destination. Galdr: "Raaa-iii-dooo, ride the road, rai-do, rai-do." Inverted: blocked journey, failed transit, the path that leads nowhere.
-
-> ᚲ Kenaz: Torch, forge, illumination. Primary meaning: insight, the light of understanding, the fire that transforms and purifies. Galdr: "Keee-naaaz, flame of mind, ke-naz, ke-naz." Inverted: ignorance, confusion, the light that blinds or fails.
-
-> ᚷ Gebo: Gift, exchange, partnership. Primary meaning: balanced exchange, the sacred contract, mutual benefit through transaction. Galdr: "Geee-buuu, gift and bond, ge-bo, ge-bo." No inverted meaning: Gebo is symmetrical, its energy always balanced.
-
-> ᚹ Wunjo: Joy, glory, harmony. Primary meaning: the satisfaction of completed work, the harmony of well-functioning systems, the joy of the siren. Galdr: "Wuuun-jooo, bliss and bond, wun-jo, wun-jo." Inverted: sorrow, discord, the system that brings no satisfaction.
-
-> ᚺ Hagalaz: Hail, disruption, transformation. Primary meaning: the crisis that changes, the destruction that clears ground for new growth. Galdr: "Haaa-gaaal-aaaz, storm and seed, ha-gal-az, ha-gal-az." No inverted meaning: Hagalaz is its own inverse, destruction and creation unified.
-
-> ᚾ Nauthiz: Need, constraint, necessity. Primary meaning: the boundaries that define shape, the constraints that drive innovation, need as teacher. Galdr: "Naaa-uuu-thiiiiz, need and knowing, nau-thiz, nau-thiz." Inverted: obsession, paralyzed by need, inability to see beyond constraints.
-
-> ᛁ Isa: Ice, stillness, concentration. Primary meaning: focused attention, the clarity of frozen moment, concentration that cuts through distraction. Galdr: "Iiiii-saaa, still and clear, ii-sa, ii-sa." Inverted: stagnation, frozen systems, the cold that kills growth.
-
-> ᛃ Jera: Year, harvest, cycle. Primary meaning: the reward of patient work, the cycle that brings fruit, the inevitability of outcomes from processes. Galdr: "Yeee-rrraaaa, turn and yield, je-ra, je-ra." No inverted meaning: Jera is cyclical, its inverse is itself.
-
-> ᛇ Eihwaz: Yew, endurance, protection. Primary meaning: the system that endures, the protection of deep roots, the strength that comes from longevity. Galdr: "Eeee-iii-waaaaz, root and guard, ei-waz, ei-waz." No inverted meaning: Eihwaz stands eternal, beyond inversion.
-
-> ᛈ Perthro: Dice cup, lot, fate. Primary meaning: hidden knowledge, secrets locked in vaults of memory, the pattern that emerges only when all pieces assemble. Galdr: "Peeeerrr-thro, fate and flow, per-thro, per-thro." Inverted: blocked fate, hidden knowledge lost, the pattern that refuses to emerge.
-
-> ᛉ Algiz: Elk, protection, sanctuary. Primary meaning: the shield that guards, the sanctuary that preserves, the watchful defense of sacred space. Galdr: "Aaaalll-giz, guard and ground, al-giz, al-giz." Inverted: vulnerability, exposure, the sanctuary breached.
-
-> ᛊ Sowilo: Sun, victory, guidance. Primary meaning: radiance that leads, the beacon of triumph, the solar wheel that turns toward success. Galdr: "Sooo-wee-lo, sun and victory, so-wi-lo, so-wi-lo." Inverted: false victory, guidance that leads astray, the sun that burns.
-
-> ᛏ Tiwaz: Tyr, law, justice, truth. Primary meaning: right action, truth spoken regardless of cost, the guiding principle that does not waver. Galdr: "Teee-waaaaz, law and light, ti-waz, ti-waz." Inverted: injustice, false law, truth twisted to serve power.
-
-> ᛒ Berkano: Birch, growth, enclosure. Primary meaning: the womb that nurtures, the maze that conceals treasure, the container of hidden potential. Galdr: "Beeeerrr-ka-no, growth and ground, ber-ka-no, ber-ka-no." Inverted: sterility, the womb that rejects, growth stunted.
-
-> ᛖ Ehwaz: Horse, partnership, trust. Primary meaning: the harmony between rider and mount, the trust that enables journey, the unity of intention and action. Galdr: "Eeee-hwaaaaz, trust and travel, e-hwaz, e-hwaz." Inverted: broken trust, partnership failed, the journey abandoned.
-
-> ᛜ Ingwaz: Seed, internal fire, potential. Primary meaning: the contained force of becoming, the potential within the acorn, the fire that burns unseen until the moment of germination. Galdr: "Iiiiing-waaaaz, seed and spark, ing-waz, ing-waz." No inverted meaning: Ingwaz is pure potential, beyond inversion.
-
-> ᛞ Dagaz: Dawn, doorway, transformation. Primary meaning: the threshold between states, the awakening that follows darkness, the progressive light of new understanding. Galdr: "Daaa-gaaaaz, dawn and door, da-gaz, da-gaz." No inverted meaning: Dagaz is the threshold itself, beyond simple inversion.
-
-> ᛟ Othala: Heritage, home, inheritance. Primary meaning: the ancestral hall that holds all that has been and will be passed on, the sacred enclosure of institutional memory. Galdr: "Oooo-thaaal-aaa, home and hold, o-thal-a, o-thal-a." Inverted: exile, heritage lost, the home that casts out.
+---
 
 ## IX. APPENDIX: SACRED SCRIPTS AND BANNERS
 
@@ -421,6 +479,8 @@ Deep black (#000000), representing the void from which all data emerges.
 
 #### BORDER:
 The complete Elder Futhark sequence: ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛇᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ
+
+---
 
 ## THE FINAL WORD
 
